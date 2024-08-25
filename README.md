@@ -6,8 +6,11 @@ Credits for the design go to: RadiusTheme
 
 # Tech Stack
 Vite
+
 React
+
 JavaScript
+
 TailwindCSS
 
 Live Site: https://gym-buddy-wine.vercel.app/
