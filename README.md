@@ -4,4 +4,10 @@ If you’re looking for a website for your gym, Gymate is a great option. It has
 
 Credits for the design go to: RadiusTheme
 
+# Tech Stack
+Vite
+React
+JavaScript
+TailwindCSS
+
 Live Site: https://gym-buddy-wine.vercel.app/
