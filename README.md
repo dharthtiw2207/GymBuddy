@@ -13,4 +13,6 @@ JavaScript
 
 TailwindCSS
 
+# Demo
+
 Live Site: https://gym-buddy-wine.vercel.app/
